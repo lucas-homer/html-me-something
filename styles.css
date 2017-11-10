@@ -29,13 +29,14 @@ body {
 figcaption {
     font-style: italic;
     font-size: 12px;
+    text-align: center;
 }
 
 img {	
     max-width: 100%;
     padding-top: 50px;
-    margin: auto;
-
+    display: block;
+    margin: 0 auto;
 }
 
 footer {
